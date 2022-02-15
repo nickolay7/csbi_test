@@ -1,8 +1,13 @@
-import React, { useState } from 'react';
 import './App.css';
+import Clients from './components/search';
 
 function App() {
-  return <h1>Hello!</h1>
+
+  return (
+    <div className="app">
+      <h1>Search clients</h1>
+      <Clients />
+    </div>);
 }
 
 export default App;
