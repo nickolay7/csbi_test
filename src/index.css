@@ -1,0 +1,7 @@
+span {
+  margin-right: 5px;
+}
+
+span.spanSelected {
+  font-weight: bold;
+}
