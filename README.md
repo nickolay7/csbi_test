@@ -7,4 +7,3 @@
 ### Start
 
 #### npm start
-git
